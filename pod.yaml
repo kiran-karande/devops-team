@@ -9,4 +9,11 @@ test_results:
   - test_name: login_test
     status: passed
     duration: 1.25
+    # Basic user test data
+users:
+  - id: 1
+    name: John
+    email: john@example.com
+    age: 25
+    active: true
 
