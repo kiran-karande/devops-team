@@ -4,3 +4,9 @@ settings:
   version: "1.0"
   environment: development
   debug: true
+  # Test results
+test_results:
+  - test_name: login_test
+    status: passed
+    duration: 1.25
+
