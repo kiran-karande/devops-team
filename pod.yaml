@@ -11,3 +11,5 @@ test_results:
     duration: 1.25
     new student 
     name : kiran
+    add new environment
+    environment:dev
