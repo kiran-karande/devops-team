@@ -2,5 +2,5 @@
 settings:
   app_name: TestApplication
   version: "1.0"
-  environment: test
-  debug: false
+  environment: development
+  debug: true
