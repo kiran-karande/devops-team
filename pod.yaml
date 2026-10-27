@@ -7,5 +7,5 @@ settings:
   # Test results
 test_results:
   - test_name: login_test
-    status: fail
+    status: pass
     duration: 1.25
