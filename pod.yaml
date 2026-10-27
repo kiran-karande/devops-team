@@ -7,7 +7,7 @@ settings:
   # Test results
 test_results:
   - test_name: login_test
-    status: passed
+    status: fail
     duration: 1.25
     # Basic user test data
 users:
