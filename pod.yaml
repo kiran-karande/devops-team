@@ -2,7 +2,7 @@
 settings:
   app_name: TestApplication
   version: "1.0"
-  environment: development
+  environment: testing
   debug: true
   # Test results
 test_results:
